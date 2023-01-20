@@ -16,3 +16,7 @@ There will 5 types of properties ::(explained below)
 Tax amount will be calculated based on type of property, wheather it is owned or rented, area etc.
 
 only run this program in linux machine (if you don't know enough about C and CommandLine commands.
+
+
+IMPT:: refresh function is commented out. It is used to clear the data in text files.
+if you want to clear the data in text files, uncomment the refresh function then all the values will turn back to default.
